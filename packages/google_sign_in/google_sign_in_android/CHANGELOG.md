@@ -1,3 +1,7 @@
+## 7.2.10
+
+* Bumps kotlin-gradle-plugin from 2.3.0 to 2.3.20.
+
 ## 7.2.9
 
 * Simplifies internal code for Kotlin/Java interoperability.

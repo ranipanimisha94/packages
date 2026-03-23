@@ -1,3 +1,7 @@
+## 0.3.0+13
+
+* Bumps kotlin-gradle-plugin from 2.3.0 to 2.3.20.
+
 ## 0.3.0+12
 
 * Bumps `androidx.core:core-ktx` from 1.13.0 to 1.18.0.

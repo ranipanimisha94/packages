@@ -1,3 +1,7 @@
+## 4.10.14
+
+* Bumps kotlin-gradle-plugin from 2.3.0 to 2.3.20.
+
 ## 4.10.13
 
 * Bumps androidx.webkit:webkit from 1.14.0 to 1.15.0.

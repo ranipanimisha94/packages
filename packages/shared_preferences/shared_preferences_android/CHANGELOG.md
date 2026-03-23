@@ -1,3 +1,7 @@
+## 2.4.22
+
+* Bumps kotlin-gradle-plugin from 2.3.0 to 2.3.20.
+
 ## 2.4.21
 
 * Reverts `androidx.datastore:datastore` to 1.1.7 due to a regression 16 KB

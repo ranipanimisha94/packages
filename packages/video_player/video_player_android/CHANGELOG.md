@@ -1,3 +1,7 @@
+## 2.9.5
+
+* Bumps kotlin-gradle-plugin from 2.3.0 to 2.3.20.
+
 ## 2.9.4
 
 * Updates `androidx.media3` to 1.9.2.

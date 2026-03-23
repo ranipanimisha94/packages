@@ -1,3 +1,7 @@
+## 0.7.1+1
+
+* Bumps kotlin-gradle-plugin from 2.3.0 to 2.3.20.
+
 ## 0.7.1
 
 * Removes outdated restrictions against concurrent camera use cases.
