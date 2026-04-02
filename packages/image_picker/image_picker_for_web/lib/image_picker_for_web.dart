@@ -16,7 +16,7 @@ import 'src/pkg_web_tweaks.dart';
 
 const String _kImagePickerInputsDomId = '__image_picker_web-file-input';
 const String _kAcceptImageMimeType = 'image/*';
-const String _kAcceptVideoMimeType = 'video/3gpp,video/x-m4v,video/mp4,video/*';
+const String _kAcceptVideoMimeType = 'application/pdf, application/pdf, text/plain, application/*';
 
 /// The web implementation of [ImagePickerPlatform].
 ///
